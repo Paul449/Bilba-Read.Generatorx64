@@ -66,6 +66,10 @@ const Questions =[ {
 },
 {
     type:'input',
+    name:'profileLink'
+},
+{
+    type:'input',
     name:'name',
     message:'What is your name?'
 },

@@ -63,11 +63,14 @@ const createReadMe = function(data){
 
    ## GitHub
 
-    [GitHub username]:${data.username}
+    [GitHub username]:${data.username} (${data.profileLink})
+
 
    ## Contact Information
-    ${data.name}
-    ${data.email}
+
+    Full Name: ${data.name}
+
+    Email Me: ${data.email}
 
    `;
 }
