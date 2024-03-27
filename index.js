@@ -1,7 +1,7 @@
 const fs = require('fs'); // calling the file system
-const inquirer = require('inquirer'); //
-const path = require('path'); //
-const GenerateRM = require('./readMe'); //
+const inquirer = require('inquirer'); // calling the inquirer program after downloading it
+const path = require('path'); // takes the answers from the question prompt and adds each one to the function called createReadMe on the readMe.js module
+const GenerateRM = require('./readMe'); // exporting function called from the readMe.js file using require and assigning the file path
 const { title } = require('process');
 
 /*
@@ -22,10 +22,10 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 */
 
-const Questions =[ {
+const Questions =[ { // shows all questions required for the user to enter when generating markdown file
     type:'input',
     name:'title',
-    message:"What is the title of your project?"
+    message:"What is the title of your project?" // This section specifies what our project title would be
 },
 {
     type:'input',
