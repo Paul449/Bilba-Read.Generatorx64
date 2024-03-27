@@ -6,17 +6,17 @@ The purpose of this program is to create a read me file based on the user input 
 
 ## Table Of Contents
 
-   [](#installation) 
+    1.- installation
 
-   [](#usage)
+    2.-usage
 
-   [](#contribution)
+    3.-contribution
 
-   [](#screencastify-video)
+    4.-screencastify-video
 
-   [](#github)
+    5.-github
 
-   [](#license)
+    6.-license
 
 ## installation 
 
