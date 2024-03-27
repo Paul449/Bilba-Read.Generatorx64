@@ -35,6 +35,7 @@ The purpose of this program is to create a read me file based on the user input 
 ## Screencastify video
 
    Here is the link to the video showing the functionality of the readme generator:
+   [readme generator_Paul Bilbatua.webm](https://github.com/Paul449/Bilba-Read.Generatorx64/assets/81491408/cbb012f6-d0cd-4f9f-b8ff-e0b9ec74d53a)
 
  ## GitHub
 
